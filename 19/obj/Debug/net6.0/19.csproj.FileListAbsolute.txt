@@ -1,0 +1,15 @@
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\bin\Debug\net6.0\19.exe
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\bin\Debug\net6.0\19.deps.json
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\bin\Debug\net6.0\19.runtimeconfig.json
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\bin\Debug\net6.0\19.dll
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\bin\Debug\net6.0\19.pdb
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.csproj.AssemblyReference.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.AssemblyInfoInputs.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.AssemblyInfo.cs
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.csproj.CoreCompileInputs.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.dll
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\refint\19.dll
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.pdb
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\19.genruntimeconfig.cache
+D:\Facultate\Fundamente\HOMEWORK\Tema 1\19\obj\Debug\net6.0\ref\19.dll
